@@ -19,14 +19,6 @@
       --shadow-tooltip: 0 8px 20px rgba(0, 0, 0, 0.18);
       --transition-fast: 0.18s ease-out;
     }
-    @font-face {
-      font-family: "Make it Better";
-      src: url("MakeItBetter-Bold.woff2") format("woff2");
-      font-weight: 700;
-      font-style: normal;
-      font-display: swap;
-    }
-
     * {
       box-sizing: border-box;
     }
@@ -107,7 +99,7 @@
       line-height: 30px;
       font-weight: 700;
       color: var(--text-muted);
-      max-width: 720px;
+
       margin: 0 auto;
     }
 
@@ -325,6 +317,62 @@
       opacity: 1;
       visibility: visible;
       transform: translate(-50%, 0);
+    }
+
+    @media (max-width: 1500px) {
+      .page {
+        padding: 40px 16px 40px;
+      }
+
+      .vision-card {
+        padding: 28px 32px 18px;
+      }
+
+      .vision-eyebrow {
+        font-size: 32px;
+        line-height: 1.2;
+        margin-bottom: 16px;
+      }
+
+      .vision-copy {
+        font-size: 18px;
+        line-height: 28px;
+        max-width: none;
+      }
+
+      .team-intro {
+        margin: 18px 0 6px;
+      }
+
+      .team-bar {
+        margin: 10px 0 28px;
+      }
+
+      .house-row {
+        padding: 20px 40px 20px;
+        gap: 19px;
+      }
+
+      .house-row.roof {
+        padding: 70px 40px 40px;
+      }
+
+      .house-row-title {
+        font-size: 18px;
+        line-height: 26px;
+      }
+
+      .pillar-title {
+        font-size: 18px;
+        line-height: 26px;
+        margin-top: 16px;
+        margin-bottom: 16px;
+      }
+
+      .house-row .pillar:nth-of-type(2) .pillar-title::before,
+      .house-row .pillar:nth-of-type(3) .pillar-title::before {
+        height: 40px;
+      }
     }
 
     @media (max-width: 768px) {

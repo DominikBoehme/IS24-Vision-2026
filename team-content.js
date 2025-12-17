@@ -466,7 +466,7 @@ window.TEAM_CONTENT = {
       "house.p1.title":
         "Focus on AI asset creation via platforms used for paid",
       "house.p1.tooltip":
-        "We use AI features in the paid platforms to create, test and scale assets efficiently while linking them to clear value signals from products and CRM.",
+        "We use AI features in the paid platforms to create, test and scale assets efficiently.",
 
       "house.p2.title": "Prepare accounts for an AI-powered future",
       "house.p2.tooltip":
@@ -511,7 +511,7 @@ window.TEAM_CONTENT = {
       "house.p1.title":
         "Fokus auf AI-gestützte Asset-Erstellung in Paid-Plattformen",
       "house.p1.tooltip":
-        "Wir nutzen AI-Funktionen der Paid-Plattformen, um Assets effizient zu erstellen, zu testen und zu skalieren und sie mit klaren Value-Signalen aus Produkten und CRM zu verknüpfen.",
+        "Wir nutzen AI-Funktionen der Paid-Plattformen, um Assets effizient zu erstellen, zu testen und zu skalieren.",
 
       "house.p2.title":
         "Accounts auf eine AI-getriebene Zukunft vorbereiten",

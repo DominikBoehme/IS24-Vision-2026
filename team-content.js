@@ -447,26 +447,26 @@ window.TEAM_CONTENT = {
     }
   },
 
-  paid: {
+   paid: {
     en: {
       "roof.p1.title":
-        "Use ROAS & revenue targets to steer paid growth",
+        "Focus on value-based bidding strategy for web & app",
       "roof.p1.tooltip":
-        "We steer paid marketing with ROAS and revenue targets across seeker, homeowner and transaction products.",
+        "Paid Marketing is steered by value-based bidding strategies for web and app that link bids to clear revenue and LTV signals across seeker, homeowner and transaction products.",
 
       "roof.p2.title": "Use MMM as a central steering tool",
       "roof.p2.tooltip":
         "We use Marketing Mix Modelling as a central input for budget and channel decisions.",
 
       "roof.p3.title":
-        "Let customer-level signals & AI scoring guide optimisation",
+        "App-first strategy – web to app",
       "roof.p3.tooltip":
-        "We optimise campaigns based on customer-level signals and AI scoring instead of only platform metrics.",
+        "We aim for the highest LTV and bring users into the app environment as their main touch point, using web-to-app journeys and targeting to move users into the app.",
 
       "house.p1.title":
-        "Run AI-focused campaign setups & value-based bidding",
+        "Focus on AI asset creation via platforms used for paid",
       "house.p1.tooltip":
-        "We roll out AI-friendly structures and value-based bidding strategies across key platforms.",
+        "We use AI features in the paid platforms to create, test and scale assets efficiently while linking them to clear value signals from products and CRM.",
 
       "house.p2.title": "Prepare accounts for an AI-powered future",
       "house.p2.tooltip":
@@ -483,9 +483,9 @@ window.TEAM_CONTENT = {
         "Paid Marketing contributes visibly to revenue growth while keeping ROAS on target.",
 
       "foundation.p2.title":
-        "Operate an AI- and data-driven performance engine",
+        "Operate data-driven performance engine",
       "foundation.p2.tooltip":
-        "We run an always-on performance engine that optimises based on data, not gut feeling.",
+        "Paid Marketing operates as a data-driven performance engine. Testing, automation and continuous optimisation are standard, and decisions are grounded in robust performance data and user signals rather than intuition alone.",
 
       "foundation.p3.title":
         "Maintain a future-proof account & measurement setup",
@@ -494,9 +494,9 @@ window.TEAM_CONTENT = {
     },
     de: {
       "roof.p1.title":
-        "Paid-Wachstum mit ROAS- & Umsatzzielen steuern",
+        "Fokus auf Value-based-Bidding-Strategie für Web & App",
       "roof.p1.tooltip":
-        "Wir steuern Paid-Marketing über ROAS- und Umsatzziele über Seeker-, Homeowner- und Transaktionsprodukte hinweg.",
+        "Wir steuern Paid-Marketing über Value-based-Bidding-Strategien für Web- und App-Kampagnen, die Gebote an klare Umsatz- und LTV-Signale über Seeker-, Homeowner- und Transaktionsprodukte koppeln.",
 
       "roof.p2.title":
         "MMM als zentrales Steuerungs-Tool nutzen",
@@ -504,14 +504,14 @@ window.TEAM_CONTENT = {
         "Wir nutzen Marketing-Mix-Modelling als zentrales Steering-Instrument für Budget- und Kanal-Entscheidungen.",
 
       "roof.p3.title":
-        "Kundensignale & AI-Scoring für Optimierung nutzen",
+        "App-first-Strategie – Web zu App",
       "roof.p3.tooltip":
-        "Wir optimieren Kampagnen auf Basis von Kundensignalen und AI-Scoring statt nur nach Plattform-Metriken.",
+        "Wir zielen auf den höchsten LTV und führen Nutzer:innen in die App-Umgebung als zentralen Touchpoint, indem wir Web-zu-App-Journeys und Targeting entsprechend ausrichten.",
 
       "house.p1.title":
-        "AI-fähige Setups & Value-Based-Bidding ausrollen",
+        "Fokus auf AI-gestützte Asset-Erstellung in Paid-Plattformen",
       "house.p1.tooltip":
-        "Wir führen AI-geeignete Setups und Value-Based-Bidding-Strategien auf den wichtigsten Plattformen ein.",
+        "Wir nutzen AI-Funktionen der Paid-Plattformen, um Assets effizient zu erstellen, zu testen und zu skalieren und sie mit klaren Value-Signalen aus Produkten und CRM zu verknüpfen.",
 
       "house.p2.title":
         "Accounts auf eine AI-getriebene Zukunft vorbereiten",
@@ -529,9 +529,9 @@ window.TEAM_CONTENT = {
         "Paid-Marketing leistet einen sichtbaren Beitrag zum Umsatzwachstum und hält dabei die ROAS-Ziele ein.",
 
       "foundation.p2.title":
-        "Eine AI- & datengetriebene Performance-Engine betreiben",
+        "Datengetriebene Performance-Engine betreiben",
       "foundation.p2.tooltip":
-        "Wir betreiben eine Always-on-Performance-Engine, die daten- und AI-getrieben optimiert – nicht nach Bauchgefühl.",
+        "Paid-Marketing funktioniert als datengetriebene Performance-Engine. Testing, Automatisierung und kontinuierliche Optimierung sind Standard, Entscheidungen basieren auf belastbaren Performance-Daten und Nutzersignalen statt auf Bauchgefühl.",
 
       "foundation.p3.title":
         "Zukunftssicheres Account- & Measurement-Setup pflegen",
@@ -539,4 +539,3 @@ window.TEAM_CONTENT = {
         "Wir halten Accounts, Tracking und Measurement so aufgesetzt, dass sie zukünftige Plattform- und Privacy-Änderungen mitgehen."
     }
   }
-};
